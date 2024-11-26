@@ -1,0 +1,42 @@
+
+
+  #one{
+    background-color: brown;
+    font-size:larger;
+  }
+  
+
+  #two{
+    background-color: brown;
+    font-size:larger;
+  }
+  
+
+
+  #name{
+    margin-top: 
+    0%;
+z-index: 3;
+  }
+
+  #dawera{
+    z-index: 3;
+
+  }
+  .background{
+    z-index: -1;
+    position: absolute;
+  background-color: #2c00f7;
+  opacity: 0.9;
+  background-image:  linear-gradient(#fdff00 2.4000000000000004px, transparent 2.4000000000000004px), linear-gradient(to right, #fdff00 2.4000000000000004px, #2c00f7 2.4000000000000004px);
+  background-size: 48px 48px;  
+  height: 100%;
+  width: 100%;
+}
+#chasaweri{
+    position: absolute;
+    margin-left: 0;
+    margin-top: 0%;
+    z-index: 3;
+
+  }
